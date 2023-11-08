@@ -1,4 +1,4 @@
-👋 Hi, I’m @Thomas-Zabalo
+👋 Hi, I’m Thomas-Zabalo
 
 Welcome to my GitHub profile! I'm a junior developer. Here's a little about me:
 
