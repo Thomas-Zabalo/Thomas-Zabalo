@@ -15,4 +15,4 @@ Bienvenue sur mon profil GitHub ! Je suis un d√©veloppeur junior. Voici un peu √
 ### Bootstrap, Tailwind, Laravel, React/Native, NextJS 14, Astro
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Zabalo&theme=dark)
-[![Stats de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo)](https://github.com/Thomas-Zabalo/github-readme-stats&theme=dark)
+[![Stats de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo&theme=dark)](https://github.com/Thomas-Zabalo/github-readme-stats)
