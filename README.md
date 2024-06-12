@@ -10,5 +10,5 @@ Welcome to my GitHub profile! I'm a junior developer. Here's a little about me:
   - Connect with me on LinkedIn: [Thomas Zabalo](https://www.linkedin.com/in/thomas-zabalo-62627a256/).
 
 
-[![Les Stats GitHub de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo)](https://github.com/Thomas-Zabalo/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Les Stats GitHub de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo&theme=tokyonigh)](https://github.com/Thomas-Zabalo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Zabalo&theme=tokyonight)
