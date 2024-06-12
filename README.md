@@ -14,5 +14,5 @@ Bienvenue sur mon profil GitHub ! Je suis un d√©veloppeur junior. Voici un peu √
 ### HTML, CSS, JS/X, TS/X, PHP, MySQL
 ### Bootstrap, Tailwind, Laravel, React/Native, NextJS 14, Astro
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Zabalo&theme=tokionight)
-[![Stats de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo&theme=tokionight)](https://github.com/Thomas-Zabalo/github-readme-stats)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Zabalo&theme=tokyonight)
+[![Stats de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo&theme=tokyonight)](https://github.com/Thomas-Zabalo/github-readme-stats)
