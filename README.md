@@ -1,4 +1,4 @@
-##👋 Salut, je suis Thomas-Zabalo
+## 👋 Salut, je suis Thomas-Zabalo
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur junior. Voici un peu à propos de moi :
 
