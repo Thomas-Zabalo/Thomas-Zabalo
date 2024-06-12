@@ -1,13 +1,13 @@
-👋 Hi, I’m Thomas-Zabalo
+##👋 Salut, je suis Thomas-Zabalo
 
-Welcome to my GitHub profile! I'm a junior developer. Here's a little about me:
+Bienvenue sur mon profil GitHub ! Je suis un développeur junior. Voici un peu à propos de moi :
 
-- I'm interested in front-end web development.
-- I’m currently learning new programming languages and frameworks to expand my skill set.
-- I’m looking to collaborate on exciting projects that challenge me and help me grow as a developer.
-- How to reach me:
-  - You can contact me via email at thomas.zabalo@email.com.
-  - Connect with me on LinkedIn: [Thomas Zabalo](https://www.linkedin.com/in/thomas-zabalo-62627a256/).
+- Je m'intéresse au développement web front-end.
+- Je suis actuellement en train d'apprendre de nouveaux langages de programmation et frameworks pour élargir mes compétences.
+- Je suis à la recherche de collaborations sur des projets passionnants qui me mettent au défi et m'aident à progresser en tant que développeur.
+- Comment me contacter :
+  - Vous pouvez me joindre par email à thomas.zabalo@email.com.
+  - Connectez-vous avec moi sur LinkedIn : [Thomas Zabalo](https://www.linkedin.com/in/thomas-zabalo-62627a256/).
  
 ⚡Mes compétences :
 
