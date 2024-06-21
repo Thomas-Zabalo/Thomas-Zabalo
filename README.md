@@ -11,7 +11,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur junior. Voici un peu �
  
 ⚡Mes compétences :
 
-[![tools](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://fr.legacy.reactjs.org/)[![tools](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://fr.legacy.reactjs.org/)
+[![tools](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://fr.legacy.reactjs.org/)  [![tools](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://fr.legacy.reactjs.org/)
 ### HTML, CSS, , TS/X, PHP, MySQL
 ### Bootstrap, Tailwind, Laravel, React/Native, NextJS 14, Astro
 
