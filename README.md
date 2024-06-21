@@ -1,6 +1,6 @@
-## 👋 Salut, je suis Thomas-Zabalo
+## 👋 Salut, je m'appelle Thomas Zabalo
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur junior. Voici un peu à propos de moi :
+Bienvenue sur mon profil GitHub ! Je suis un développeur front-end junior basé en France. 
 
 - Je m'intéresse au développement web front-end.
 - Je suis actuellement en train d'apprendre de nouveaux langages de programmation et frameworks pour élargir mes compétences.
