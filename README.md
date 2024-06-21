@@ -11,7 +11,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur junior. Voici un peu �
  
 ⚡Mes compétences :
 
-### HTML, CSS, JS/X, TS/X, PHP, MySQL
+### HTML, CSS, [![tools](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), TS/X, PHP, MySQL
 ### Bootstrap, Tailwind, Laravel, React/Native, NextJS 14, Astro
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Zabalo&theme=tokyonight)
