@@ -26,7 +26,6 @@ Je m'appelle **Thomas Zabalo**, étudiant en **3A** en **BUT MMI** à l'IUT de C
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Zabalo&theme=tokyonight) 
 [![Stats de Thomas](https://github-readme-stats.vercel.app/api?username=Thomas-Zabalo&theme=tokyonight)](https://github.com/Thomas-Zabalo/github-readme-stats)
-![Codewars](https://github.r2v.ch/codewars?user=Thomas-Zabalo)
 
 ---
 
